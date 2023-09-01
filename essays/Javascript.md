@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-# <img width="100px" class="rounded float-start pe-4" src="Javascript.png">
+# <img width="100px" class="rounded float-start pe-4" src="../img/Javascript.png">
 
 From my initial introduction to computer science in high school to the present, I have delved into different coding languages. I first started with Python and JavaScript, and I expanded to be more proficient in Java. 
 
