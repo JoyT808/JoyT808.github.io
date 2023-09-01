@@ -8,7 +8,7 @@ published: true
 labels:
   - Python
   - Binary
-  - GitHub
+  - JupyterLab
 summary: "A program that adds binary numbers together."
 ---
 

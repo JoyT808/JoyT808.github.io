@@ -6,6 +6,7 @@ title: "Finding Duplicates"
 date: 2023
 published: true
 labels:
+  - Java
   - JupyterLab
   - Time Complexity
 summary: "A program that finds number that appeared more than once."
