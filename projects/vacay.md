@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/Binary.jpg
 title: "Binary Addition"
 date: 2023
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A program that adds binary numbers together that I created in ICS 141 : Discrete Mathematics 1."
 ---
 
-<img class="img-fluid" src="Binary.jpg">
+<img class="img-fluid" src="../img/Binary.jpg">
 
 Binary Addition is a program that adds binary numbers together that I created in ICS 141 : Discrete Mathematics 1.
 It is coded in python and completed within a week.
