@@ -2,7 +2,7 @@
   "basics": {
     "name": "Joy Tan",
     "label": "Student",
-    "picture": "",
+    "picture": "https://avatars.githubusercontent.com/u/143467159?s=400&u=4913095e643680691d18a1372a9f6cd385f0380c&v=4",
     "email": "joytan@hawaii.edu",
     "phone": " ",
     "website": "https://JoyT808.github.io",
@@ -23,10 +23,6 @@
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "Java", "Javascript","Python"]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
@@ -54,19 +50,7 @@
     },
   ],
   "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+
   ],
   "awards": [
     {
