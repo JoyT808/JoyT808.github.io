@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-# <img width="100px" class="rounded float-start pe-4" src="../img/softwareE.png">
+# <img width="50%" class="rounded float-start pe-4" src="../img/softwareE.png">
 
 As a Computer Science major at University of Hawaii at Manoa, my journey into software engineering has been both challenging and fascinating. This field is immensely much more complex than I’ve imagined and I’m exhilarated to develop and hone my skills and gain more experience. 
 
