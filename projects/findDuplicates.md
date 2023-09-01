@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Duplicates.jpg
+image: img/DuplicatesS.jpg
 title: "Finding Duplicates"
 date: 2023
 published: true

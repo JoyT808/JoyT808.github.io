@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Binary.jpg
+image: img/BinaryS.jpg
 title: "Binary Addition"
 date: 2023
 published: true
