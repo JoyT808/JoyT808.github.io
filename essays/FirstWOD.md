@@ -12,7 +12,7 @@ labels:
 ---
 
 # <img width="50%" class="rounded float-start pe-4" src="../img/Javascript.png">
-What are WODs?
+## What are WODs?
 Work Out of the Day (WOD) is an athletic approach to software engineering. Its goal is to practice implementing a solution to a problem, being as efficient as possible and while being time-constrained. Each WOD completion is ranked by Rx (as prescribed), Av (advanced), Sd (standard), and DNF (did not finish), with Rx being the best and DNF being the worst.
 
 ## Objective
