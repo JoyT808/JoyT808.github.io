@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-# <img width="50%" class="rounded float-start pe-4" src="../img/Javascript.png">
+# <img width="50%" class="rounded float-start pe-4" src="../img/StackOverflow.png">
 ## What Are Smart Questions?
 Asking questions is significant in learning and personal growth. It can show engagement in a topic and encourages critical thinking and being able to analyze information. However, in a professional aspect or even in general, when asking a respected peer a question, it's important to be able to formulate smart questions in order to not appear as lazy, arrogant, or stupid. 
 
