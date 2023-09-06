@@ -17,7 +17,7 @@ Asking questions is significant in learning and personal growth. It can show eng
 According to Eric Raymond, in his article How to Ask Questions the Smart Way, you should always do research beforehand such as searching online, reading the sources that are provided/available to you or searching in forums to see if the questions have been asked already. This demonstrates the commitment of your efforts when seeking answers. Another important aspect to consider is formulating good critical questions and demonstrating in an attempt to solve it as well as providing specific detail and background regarding the question. Lastly, it is always important to be respectful and polite especially when you're asking for help and people are taking part of their time to answer and explain for you.
 
 ## Examples of Smart and not Smart Questions
-A helpful community to ask questions for programing related question is on Stack Overflow.   Stack Overflow has millions of users and its community has helped about 50 billion developers already. As expected, it also receives a lot of questions everyday as well and there are a variety of different questions. 
+A helpful community to ask questions for programing related question is on <a href="https://stackoverflow.co/">Stack Overflow</a>.   Stack Overflow has millions of users and its community has helped about 50 billion developers already. As expected, it also receives a lot of questions everyday as well and there are a variety of different questions. 
 
 ### Smart Question
 A example of a smart question 
