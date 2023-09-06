@@ -11,7 +11,7 @@ labels:
 ---
 
 # <img width="50%" class="rounded float-start pe-4" src="../img/StackOverflow.png">
-## What Are Smart Questions?
+## What Are Smart Questions? 
 Asking questions is significant in learning and personal growth. It can show engagement in a topic and encourages critical thinking and being able to analyze information. However, in a professional aspect or even in general, when asking a respected peer a question, it's important to be able to formulate smart questions in order to not appear as lazy, arrogant, or stupid. 
 
 According to Eric Raymond, in his article <a href ="http://www.catb.org/esr/faqs/smart-questions.html">How to Ask Questions the Smart Way</a>, you should always do research beforehand such as searching online, reading the sources that are provided/available to you or searching in forums to see if the questions have been asked already. This demonstrates the commitment of your efforts when seeking answers. Another important aspect to consider is formulating good critical questions and demonstrating in an attempt to solve it as well as providing specific detail and background regarding the question. Lastly, it is always important to be respectful and polite especially when you're asking for help and people are taking part of their time to answer and explain for you.
