@@ -27,7 +27,7 @@ One notable issue that I noticed is that if I wanted to use function BertErnie a
 
 During the class discussions afterwards, we discussed some of the different approaches to implement the solution and I realized that there are a lot more things to consider such as the significance of code readability. I also came to appreciate the importance of these conversations after the WOD completion as they provide an opportunity to learn from my peers. These discussions highlights different perspectives to consider, explore more efficient algorithms and also the benefits of handling situations in a particular way.
 
-Moving forward, my strategy to improve my performance for future WODs is to shift my focus away from speed a little bit and if time allows, prioritzie being able to create accurate, versatile, efficient, and readable code a little bit more.
+Moving forward, my strategy to improve my performance for future WODs is to shift my focus away from speed a little bit and if time allows, prioritzie being able to create accurate, versatile, efficient, and readable code a little bit more. 
 
 
 Code : <a href="https://jsfiddle.net/JoyTan/s4pkcx5o/11/">BertErnie</a>
