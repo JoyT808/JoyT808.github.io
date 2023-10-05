@@ -7,6 +7,7 @@ date: 2023-10-4
 published: true
 labels:
   - HTML
+  - CSS
   - Bootstrap 5
   - Learning
 ---
@@ -15,7 +16,7 @@ labels:
 
 ## Purpose of a UI?
 The purpose of a user interface (UI), is for users to be able to interact with software systems and programs. It contains a lot of elements such as graphical elements like buttons, links, images, text, and other visuals to help inform, collect their input, or/and help navigate the user to use the application. Having a good and user-friendly UI is important since it contributes to users wanting to interact with it, increasing engagement and retention.
-
+###
 ## Experience with Web Development
 To create a website, it usually uses Hypertext Markup Languages (HTML), Cascading Style Sheets (CSS), and JavaScript. HTML is used to define the graphical elements (text, images, ect) and it provides the structure and content. CSS on the other hand is to style the elements in the HTML file such as changing fonts, size, and color. Lastly, javascript is the main programming language used for websites, and it's used to add interactive features.
 
