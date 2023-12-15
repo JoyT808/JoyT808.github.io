@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Joy Tan",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/143467159?s=400&u=4913095e643680691d18a1372a9f6cd385f0380c&v=4",
+    "email": "joytan@hawaii.edu",
+    "phone": " ",
+    "website": "https://JoyT808.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "JoyT808", "url": "http://github.com/JoyT808" },
+      { "network": "linkedin", "username": "Joy Tan", "url": "http://www.linkedin.com/in/joy-tan-hawaii" }
+    ]
+  },
+  "interests": [
+    { "name": "Graphic Design" },
+    { "name": "Digital Art" },
+    { "name": "Artificial Intelligence" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Java", "Javascript","Python"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.S.",
+      "startDate": "2022-08-21",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Minamoto Kitchoan",
+      "position": "Retail Sales Associate",
+      "website": "https://www.minamotokitchoanhawaii.com/",
+      "startDate": "June 2022",
+      "endDate": "Present",
+      "summary": "Provide customer service, organizing and restocking products, and data entry ",
+      "highlights": [ ]
+    },
+  ],
+  "volunteer": [
+
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
