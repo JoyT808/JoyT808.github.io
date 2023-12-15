@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FiresheepLOGO.png
+image: img/firesheep-transparent.png
 title: "FIRESHEEP"
 date: Fall 2023
 published: true
