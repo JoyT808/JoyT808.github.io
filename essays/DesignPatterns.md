@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-# <img width="50%" class="rounded float-start pe-4" src="../img/typing.jpg">
+# <img width="50%" class="rounded float-start pe-4" src="../img/designpatterns.png">
 
 ## What are Design Patterns
 Design patterns are reusable solutions to common problems that arise in software design. In addition to offering a flexible and effective way to organize code, they serve as a representation of best practices. Instead of being limited to a single issue or field, design patterns are applicable in a variety of contexts.

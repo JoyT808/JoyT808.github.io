@@ -12,7 +12,7 @@ labels:
   - Ethics
 ---
 
-# <img width="50%" class="rounded float-start pe-4" src="../img/typing.jpg">
+# <img width="50%" class="rounded float-start pe-4" src="../img/se.png">
 
 ## Introduction
 In the dynamic and ever-evolving field, being a software engineer goes beyond having a functional code. As a computer science student, I've learned that it's crucial to understand and implement key principles that contribute to the development of robust and ethically software. This essay explores the significance of coding standards, user interface frameworks, and ethics in software engineering.

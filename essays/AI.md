@@ -11,7 +11,7 @@ labels:
   - ChatGPT
 ---
 
-# <img width="50%" class="rounded float-start pe-4" src="../img/typing.jpg">
+# <img width="50%" class="rounded float-start pe-4" src="../img/ai.jpg">
 
 ## Introduction
 Artificial Intelligence (AI) has become a useful component, especially in computer related courses such as Software Engineering. This essay will delve into my experiences with AI tools, methodologies, and concepts within ICS 314, exploring their 
